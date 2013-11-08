@@ -1,0 +1,5 @@
+2013-11-08 Hoo Wan <imengyingchina@gmail.com>
+	* 简单修改命令行飞信（源码中加入默认的发送手机号和飞信密码，以防止在命令记录中泄露密码。）
+
+2010-12-26 YunQiang Su <wzssyqa@gmail.com>
+    * 纯命令行版第一个版本发布
