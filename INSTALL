@@ -7,7 +7,8 @@ You need the following things pre-installed on your system:
 
 a) pkg-config, the package config system;
 b) cmake, the make system;
-c) required library: libxml2, openssl, sqlite3(libsqlite3-dev);
+c) required library: libxml2(libxml2-dev), openssl(libssl-dev), sqlite3(libsqlite3-dev);
+for ubuntu users: sudo apt-get install libxml2-dev libssl-dev libsqlite3-dev
 d) change the YOUR_PHONE_NUMBER and YOUR_FETION_PASSWORD in src/fetion.c line 30,31 to your own.
 
 CONFIGURE
